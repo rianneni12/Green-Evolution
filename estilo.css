@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #00FF7F;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+nav{
+    background-color: white;
+    padding-left: 10px;
+    font-size: xx-large;
+}
+
+nav a{
+    text-decoration: none;
+    color: #00FF7F;
+}
+nav a:hover{
+    background-color: gray;
+}
+
+.corpo{
+    margin: 9px;
+}
+
+.index{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.logo{
+    width: 600px; 
+    border: 10px;
+}
+.loguinho{
+    width: 120px;
+    border: transparent solid 3px;
+}
+
+.imagem{
+    width: 150px;
+    border: 5px;
+}
